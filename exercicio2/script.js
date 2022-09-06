@@ -57,3 +57,4 @@ else
 {
 	console.log("voce esta cursando faculdade")
 }
+const teste
